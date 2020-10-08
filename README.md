@@ -1,5 +1,6 @@
 # AppCommerce
- Developed an e-commerce apk with the Kotlin language.
+ Developed an app mobile commerce apk with the Kotlin language.
+ 
  
  Prerequisites
 --------------
